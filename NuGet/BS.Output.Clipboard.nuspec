@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+			<id>BS.Output.Clipboard</id>
+			<version>1.0.0</version>
+			<title>Clipboard Output for Bug Shooting</title>
+      <authors>Bug Shooting, Alexej Hirsch</authors>
+      <owners>Bug Shooting, Alexej Hirsch</owners>
+      <licenseUrl>https://github.com/BugShooting/Output.Clipboard/raw/master/LICENSE.txt</licenseUrl>
+			<projectUrl>https://github.com/BugShooting</projectUrl>
+			<iconUrl>https://github.com/BugShooting/Output.Clipboard/raw/master/BS.Output.Clipboard/Resources/logo_64.png</iconUrl>
+			<requireLicenseAcceptance>false</requireLicenseAcceptance>
+			<releaseNotes />
+			<description>Copy screenshots to clipboard.</description>
+			<copyright />
+			<tags>bugshooting.com/output/v3</tags>
+    </metadata>
+    <files>
+			<file src="BS.Output.Clipboard.dll" />
+    </files>
+</package>
