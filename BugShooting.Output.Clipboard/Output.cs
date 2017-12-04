@@ -1,4 +1,6 @@
-﻿namespace BS.Output.Clipboard
+﻿using BS.Plugin.V3.Output;
+
+namespace BugShooting.Output.Clipboard
 {
 
   public class Output: IOutput 
